@@ -1,0 +1,59 @@
+/*
+Original code controlling "fallback" avatar in package (1.2.5):
+
+.avatar img{vertical-align:bottom}
+.avatar-left{float:left;margin-right:10px}
+.avatar-inline{display:inline-block;margin-right:3px}
+.avatar-48 img,.avatar-48 div{border-radius:30px}
+.avatar-48 .avatar-letter{line-height:48px;width:48px;font-size:25px}
+.avatar-20 img,.avatar-20 div{border-radius:10px}
+.avatar-20 .avatar-letter{line-height:20px;width:20px;font-size:11px}
+.avatar-letter{color:#fff;text-align:center}
+
+
+The same code with some modifications:
+*/
+.avatar img{
+    vertical-align:bottom;
+}
+
+.avatar-left{
+    float:left;
+    margin-right:20px;
+}
+
+.avatar-inline{
+    display:inline-block;
+    margin-right:5px;
+    text-align:right;
+}
+
+.avatar-48 img,.avatar-48 div{
+    border-radius:15px;
+}
+
+.avatar-48 .avatar-letter{
+    line-height:40px;
+    width:100%;
+    padding:4px;
+
+    font-size:25px;
+}
+
+.avatar-20 img,.avatar-20 div{
+    border-radius:5px;
+}
+
+.avatar-20 .avatar-letter{    
+    line-height:16px;
+    width:100%;
+    padding:2px;
+    
+    font-size:11px;
+}
+
+.avatar-letter{
+    color:#fff;
+    text-align:center;
+    white-space:nowrap;
+}
