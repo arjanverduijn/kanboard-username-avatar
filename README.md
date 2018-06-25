@@ -1,10 +1,10 @@
 Kanboard Username Avatar Plugin
-==============================
+==========================
 
 Kanboard plugin that provides modified avatars with username instead of initials.
 
 Author
-------
+------------
 
 - Arjan Verduijn
 - License MIT
@@ -12,7 +12,7 @@ Author
 Requirements
 ------------
 
-- Kanboard >= 1.0.48
+- [Kanboard](https://kanboard.org) >= 1.0.48
 
 Installation
 ------------
