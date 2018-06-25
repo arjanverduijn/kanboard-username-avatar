@@ -1,7 +1,7 @@
-Username Avatar Plugin
+Kanboard Username Avatar Plugin
 ==============================
 
-Provides modified avatars with username instead of initials
+Kanboard plugin that provides modified avatars with username instead of initials.
 
 Author
 ------
@@ -22,7 +22,7 @@ Installing this plugin can be done using the following methods:
 * Download the zip file and decompress all files in the directory `plugins/`
 * Copy all the files in this repository into the folder `plugins/UsernameAvatar`
 
-Note: Plugin folder is case-sensitive.
+Note: Plugin directory name is case-sensitive.
 
 Documentation
 -------------

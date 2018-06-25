@@ -57,7 +57,7 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return '';
+        return 'https://github.com/arjanverduijn/kanboard-username-avatar';
     }
     
     public function getCompatibleVersion()
