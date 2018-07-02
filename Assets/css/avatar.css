@@ -37,7 +37,7 @@ The same code with some modifications:
     width:100%;
     padding:4px;
 
-    font-size:25px;
+    font-size:1.8em;
 }
 
 .avatar-20 img,.avatar-20 div{
@@ -49,7 +49,7 @@ The same code with some modifications:
     width:100%;
     padding:2px;
     
-    font-size:11px;
+    font-size:0.9em;
 }
 
 .avatar-letter{
